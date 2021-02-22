@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Travelled</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Travelled</string>
+    <string name="open_map">Open Map</string>
+
+</resources>
